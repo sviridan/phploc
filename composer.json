@@ -26,7 +26,7 @@
         "ext-json": "*",
         "sebastian/cli-parser": "^2.0",
         "sebastian/version": "^3.0",
-        "phpunit/php-file-iterator": "^3.0"
+        "phpunit/php-file-iterator": "^3.0|^4.0"
     },
     "autoload": {
         "classmap": [
